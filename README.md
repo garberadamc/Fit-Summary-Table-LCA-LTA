@@ -7,10 +7,10 @@ This syntax automates the process of generating a model fit summary table for co
 If using this tutorial to produce tables for publication it would be greatly appreciated if you cite this resource using the citation provided here:
 
 Garber, A. C. (2021). Creating Summary Fit Tables for LCA and LTA Analyses Using MplusAutomation.
-Retrieved from psyarxiv.com/uq2fh
+Retrieved from https://psyarxiv.com/uq2fh/
 
 ***
 
-Other resources here: adam-garber.com
+personal website - https://www.adam-garber.com/
 
-***
+<img src="tidy_workflow_hex.png" width="500">
